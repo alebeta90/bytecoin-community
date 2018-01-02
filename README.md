@@ -1,7 +1,7 @@
 # bytecoin-community
 Community Dev Team Repository
 
-## List of BCN Master Nodes
+## BCN Master Nodes
 
 ### [bytecoin.cloud](https://bytecoin.cloud/)
 
